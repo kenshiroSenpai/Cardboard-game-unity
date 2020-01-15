@@ -3,8 +3,9 @@
 *Cardboard game* is a project make in Unity with Google VR.
 
 ## Requirements
-You only can play in Android(MIN. 19+) or greater.
-If you want to play in your computer, use the project and play in mode Editor.
+> - Android(MIN. 19+) or greater.
+
+> - If you want to play in your computer, use the project and play in mode Editor.
 
 ## Screenshot
 ![alt text](Captura.PNG)
